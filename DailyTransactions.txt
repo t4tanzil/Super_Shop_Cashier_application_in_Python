@@ -1,0 +1,22 @@
+Current Total Daily Sales: $862.83
+
+=======================================
+Transaction Time: 2024-12-04 14:52:26
+Total Items: 6
+Item Details:
+ 1. Bread | Barcode: 130 | Price: $57.73
+ 2. Sunscreen | Barcode: 191 | Price: $54.73
+ 3. Sunscreen | Barcode: 191 | Price: $54.73
+ 4. Sunscreen | Barcode: 191 | Price: $54.73
+ 5. Sunscreen | Barcode: 191 | Price: $54.73
+ 6. Sunscreen | Barcode: 191 | Price: $54.73
+Total Price (Including Tax): $797.60
+=======================================
+
+=======================================
+Transaction Time: 2024-12-04 14:53:14
+Total Items: 1
+Item Details:
+ 1. Bread | Barcode: 130 | Price: $57.73
+Total Price (Including Tax): $65.23
+=======================================
